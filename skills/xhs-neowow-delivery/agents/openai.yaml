@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书 AI 生图交付"
+  short_description: "通过 Neowow 分步完成账号人物换装、图库筛选确认、场景人物替换与车辆修复交付"
+  default_prompt: "使用 $xhs-neowow-delivery，读取账号绑定资产和本次要求，完成换装、场景候选确认、人物替换及车辆修复后交付图片。"
